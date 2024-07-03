@@ -20,6 +20,7 @@ width: 90px;
 border-radius: 20px;
 font-size: 19px;
 background: rgb(168, 245, 255);
+cursor:pointer;
  }
 .btn{
 color: rgb(14, 238, 43);
