@@ -27,6 +27,8 @@ background-color: transparent;
 border:none;
 cursor: pointer;
 margin-left: 200px;
+line-height: 10px;
+
 }
  img{
 width: 450px;
@@ -39,34 +41,35 @@ display:inline-block
  .paragf{
  font-weight: 400;  
  font-size: 18px; 
- line-height: 33px;
+ line-height: 23px;
  letter-spacing: 0.5px;
  color:#4B505A;
  width: 493px;
  height: 120px;
  }
- h1{
+h1{
 width: 500px;
 height: 40px;
-font-size: 40px;
-margin-left: 140px;
-border: 20px;
+font-size: 80px;
+margin-left: 130px;
+border: 2px;
+margin-bottom: 50px;
+
 
  }
  h2{
     width: 150px;
     height: 50px;
-    font-size: 20px;
+    font-size: 22px;
     margin-left: 140px;
-
- }
+}
 p{
 margin-left:140px;
 font-size: 15px;
 width:100px ;
 height: 60vh;
 border: 10px;
-margin-top: 10px;
+
 
 
 }
